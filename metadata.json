@@ -1,0 +1,6 @@
+{
+  "name": "YouTube Recommendation Blocker",
+  "description": "Chrome Extension (Manifest V3) package builder, source inspector, and interactive preview for blocking YouTube homepage feeds and watch sidebar suggestions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
